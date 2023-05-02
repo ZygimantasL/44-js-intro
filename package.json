@@ -9,7 +9,8 @@
     "console": "nodemon ./js/01-console.js",
     "number": "nodemon ./js/02-number.js",
     "string": "nodemon ./js/03-string.js",
-    "function": "nodemon ./js/04-function.js"
+    "function": "nodemon ./js/04-function.js",
+    "array": "nodemon ./js/05-array.js"
   },
   "keywords": [],
   "author": "ZygimantasL",
