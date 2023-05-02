@@ -1,0 +1,20 @@
+{
+  "name": "44-js-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon",
+    "console": "nodemon ./js/01-console.js",
+    "number": "nodemon ./js/02-number.js",
+    "string": "nodemon ./js/03-string.js",
+    "function": "nodemon ./js/04-function.js"
+  },
+  "keywords": [],
+  "author": "ZygimantasL",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
