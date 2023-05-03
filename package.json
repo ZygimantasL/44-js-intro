@@ -10,7 +10,9 @@
     "number": "nodemon ./js/02-number.js",
     "string": "nodemon ./js/03-string.js",
     "function": "nodemon ./js/04-function.js",
-    "array": "nodemon ./js/05-array.js"
+    "array": "nodemon ./js/05-array.js",
+    "typeoff": "nodemon ./js/07-typeoff.js",
+    "object": "nodemon ./js/08-object.js"
   },
   "keywords": [],
   "author": "ZygimantasL",
