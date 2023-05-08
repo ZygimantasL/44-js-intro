@@ -62,3 +62,21 @@ suma2 = suma2 + 10;         // vienas variantas
 console.log(suma2);
 suma2 += 15                 // tas pats kas rašyt suma2=suma2 + 15
 console.log(suma2);
+
+
+console.clear();
+
+let i =0;
+console.log(i);
+i += 1;
+console.log(i);
+i++;
+console.log(i);
+++i;
+console.log(i);
+i -= 1;
+console.log(i); 
+i --;
+console.log(i);
+--i;
+console.log(i);

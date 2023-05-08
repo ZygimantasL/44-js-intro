@@ -14,7 +14,9 @@
     "typeoff": "nodemon ./js/07-typeoff.js",
     "object": "nodemon ./js/08-object.js",
     "array-methods": "nodemon ./js/09-array-methods.js",
-    "if": "nodemon ./js/10-if.js"
+    "if": "nodemon ./js/10-if.js",
+    "ternary": "nodemon ./js/11-ternary.js",
+    "for": "nodemon ./js/12-for.js"
   },
   "keywords": [],
   "author": "ZygimantasL",
