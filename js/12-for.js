@@ -54,4 +54,48 @@ for (let i=0; i <pazymiai.length; i++){
     if (i %kasKelintas === kasKelintas-1){
    console.log(i+1, '--->', pazymiai[i])}
 }
+console.log('---------------');
 
+//skaiciai po kablelio .toFixed()
+// const cikle gali kist kas karta pasikeiciant ciklo skaiciui
+
+for(i = 5; i<= 6; i+=0.1){
+    let suapvalintas = i.toFixed(1)
+    suapvalintas += 1; // dadeda kaip text prie text
+    console.log(suapvalintas, '-', i);
+}
+console.log('---------------');
+//Parse INT (grazina sveika skaiciu),  parseFLOAT (grazina desimtaini)
+console.log( '5', parseInt('5'));
+console.log('3.14', parseFloat ('3.14'));
+console.log('3.1425', +'3.1425');
+
+for(i = 5; i<= 6; i+=0.1){
+    let suapvalintas = parseFloat(i.toFixed(3));
+    suapvalintas += 1; // dadeda kaip text prie text
+    console.log(suapvalintas, '-', i);
+}
+
+console.clear();
+console.log('-------------');
+const text = 'Labas rytas, Lietuva!';
+
+for (let i=0; i< text.length; i++){
+    console.log(i, '-', text[i]);
+}
+// backwards
+console.log('---------------');
+for (let i=text.length; i>0; i--){
+    console.log(i, '-', text[i]);
+}
+
+let atbulas='';
+console.log('---------------');
+for (let i=0; i< text.length; i++){
+    const index = text.length -i -1;
+    let symbol = text[index];
+    atbulas+= symbol;
+
+    console.log(i, '-', text[i]);
+}
+console.log(atbulas);
