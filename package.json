@@ -16,7 +16,8 @@
     "array-methods": "nodemon ./js/09-array-methods.js",
     "if": "nodemon ./js/10-if.js",
     "ternary": "nodemon ./js/11-ternary.js",
-    "for": "nodemon ./js/12-for.js"
+    "for": "nodemon ./js/12-for.js",
+    "uzd-1": "nodemon ./uzd/1-empty.js"
   },
   "keywords": [],
   "author": "ZygimantasL",
