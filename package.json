@@ -19,7 +19,8 @@
     "for": "nodemon ./js/12-for.js",
     "uzd-1": "nodemon ./uzd/1-empty.js",
     "uzd-2": "nodemon ./uzd/2-multiply.js",
-    "uzd-3": "nodemon ./uzd/3-numbers.js"
+    "uzd-3": "nodemon ./uzd/3-numbers.js",
+    "uzd-4": "nodemon ./uzd/4-biggest.js"
   },
   "keywords": [],
   "author": "ZygimantasL",
