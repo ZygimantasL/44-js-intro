@@ -29,3 +29,6 @@ console.log(numberLength({}));
 console.log(numberLength(Infinity));
 console.log(numberLength(3.14), '-->', 3);
 console.log(numberLength(-3.14), '-->', 3);
+
+//uzduotis
+console.log(numberLength(0.000000000000000000000000001));
