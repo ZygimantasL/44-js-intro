@@ -22,7 +22,8 @@
     "uzd-2": "nodemon ./uzd/2-multiply.js",
     "uzd-3": "nodemon ./uzd/3-numbers.js",
     "uzd-4": "nodemon ./uzd/4-biggest.js",
-    "uzd-5": "nodemon ./uzd/5-letters.js"
+    "uzd-5": "nodemon ./uzd/5-letters.js",
+    "1-nd": "nodemon ./uzd/01-raides.js"
   },
   "keywords": [],
   "author": "ZygimantasL",
