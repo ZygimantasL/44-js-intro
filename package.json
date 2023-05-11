@@ -18,6 +18,7 @@
     "ternary": "nodemon ./js/11-ternary.js",
     "for": "nodemon ./js/12-for.js",
     "arrow": "nodemon ./js/13-arrow.js",
+    "loops": "nodemon ./js/14-loops.js",
     "uzd-1": "nodemon ./uzd/1-empty.js",
     "uzd-2": "nodemon ./uzd/2-multiply.js",
     "uzd-3": "nodemon ./uzd/3-numbers.js",

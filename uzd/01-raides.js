@@ -22,8 +22,8 @@ function raides(tekstas, kintamieji) {
         'size': (tekstas) => tekstas.length, 
         'lowercase': (tekstas) => tekstas.toLowerCase(),
         'uppercase': (tekstas) => tekstas.toUpperCase(),
-        'uppercaseCount': (tekstas) => tekstas.uppercaseCount,
-        'lowercaseCount': (tekstas) => tekstas.lowercaseCount,
+        'uppercaseCount': (tekstas) => tekstas.upperCaseCount(tekstas),
+        'lowercaseCount': (tekstas) => tekstas.lowerCaseCount(tekstas),
         }
     return funkcijos[kintamieji](tekstas);
 
