@@ -41,3 +41,4 @@ console.log('Pirmasis kintamasis yra netinkamo tipo.', '--->', isrinktiRaides( 1
 console.log('Pirmojo kintamojo reikšmė yra netinkamo dydžio.', `-->`,isrinktiRaides('', 2 ) );
 console.log('Antrasis kintamasis yra netinkamo tipo.', `-->`,isrinktiRaides('asdsadas', 'assa' ) );
 console.log('Antrasis kintamasis yra netinkamo tipo.', `-->`,isrinktiRaides('asdsadas', -Infinity ) );
+
