@@ -19,6 +19,7 @@
     "for": "nodemon ./js/12-for.js",
     "arrow": "nodemon ./js/13-arrow.js",
     "loops": "nodemon ./js/14-loops.js",
+    "filter":"nodemon ./js/17-filter.js",
     "spread": "nodemon ./js/19-spread.js",
     "json":  "nodemon ./js/20-json.js",
     "recursion": "nodemon ./js/21-recursion.js",
