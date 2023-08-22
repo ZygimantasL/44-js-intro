@@ -158,3 +158,6 @@ if (21){
 //konvertuojama isvestis i boolean t.y. ar true ar false
 const negative = !!error;
 console.log(negative);
+console.clear();
+let month = 6
+if (month ===4 || 5)
